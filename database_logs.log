@@ -1,0 +1,62 @@
+
+2021-05-16 20:05:11,048 INFO __main__::main: Start time 2021-05-16 20:05:11.048032
+2021-05-16 20:05:11,049 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:05:11,057 INFO __main__::insert_data: Inserting data from 0 row from file for 2019 year
+2021-05-16 20:05:23,258 INFO __main__::insert_data_into_collections: Break time 2021-05-16 20:05:23.258154
+2021-05-16 20:05:23,258 INFO __main__::insert_data_into_collections: Executing time 0:00:12.210122
+2021-05-16 20:05:23,258 INFO __main__::insert_data_into_collections: Я упал: interrupted at shutdown, full error: {'ok': 0.0, 'errmsg': 'interrupted at shutdown', 'code': 11600, 'codeName': 'InterruptedAtShutdown'}
+2021-05-16 20:05:42,653 INFO __main__::main: Start time 2021-05-16 20:05:42.653751
+2021-05-16 20:05:42,655 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:05:42,657 INFO __main__::insert_data: Inserting data from 65700 row from file for 2019 year
+2021-05-16 20:06:39,595 INFO __main__::insert_data: Inserting from Odata2019File.csv is finished
+2021-05-16 20:06:39,595 INFO __main__::insert_data: Inserting data from 0 row from file for 2020 year
+2021-05-16 20:06:51,179 INFO __main__::insert_data_into_collections: Break time 2021-05-16 20:06:51.179881
+2021-05-16 20:06:51,180 INFO __main__::insert_data_into_collections: Executing time 0:01:08.526130
+2021-05-16 20:06:51,180 INFO __main__::insert_data_into_collections: Я упал: interrupted at shutdown, full error: {'ok': 0.0, 'errmsg': 'interrupted at shutdown', 'code': 11600, 'codeName': 'InterruptedAtShutdown'}
+2021-05-16 20:07:23,064 INFO __main__::main: Start time 2021-05-16 20:07:23.064093
+2021-05-16 20:07:23,065 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:07:23,067 INFO __main__::insert_data: Inserting data from 44850 row from file for 2020 year
+2021-05-16 20:08:29,490 INFO __main__::insert_data: Inserting from Odata2020File.csv is finished
+2021-05-16 20:08:29,490 INFO __main__::main: End time 2021-05-16 20:08:29.490964
+2021-05-16 20:08:29,491 INFO __main__::main: Inserting executing time 0:01:06.426871
+2021-05-16 20:08:29,491 INFO __main__::get_user_query: Getting data for users query
+2021-05-16 20:08:32,428 INFO __main__::get_user_query: Users query data recorded into resultFile.csv
+2021-05-16 20:08:32,428 INFO __main__::build_plot: Building plot for data from resultFile.csv file
+2021-05-16 20:08:33,517 INFO __main__::build_plot: Plot saved into results_photo/AverageMarkByRegion.png
+2021-05-16 20:08:33,518 INFO __main__::main: Program is finished
+2021-05-16 20:08:33,518 INFO __main__::main: Total inserting executing time 0:02:23.071305
+2021-05-16 20:09:13,368 INFO __main__::main: Start time 2021-05-16 20:09:13.368147
+2021-05-16 20:09:13,369 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:09:13,372 INFO __main__::insert_data: Inserting data from 379299 row from file for 2020 year
+2021-05-16 20:09:27,377 INFO __main__::insert_data_into_collections: Break time 2021-05-16 20:09:27.377230
+2021-05-16 20:09:27,377 INFO __main__::insert_data_into_collections: Executing time 0:00:14.009083
+2021-05-16 20:09:27,377 INFO __main__::insert_data_into_collections: Я упал: documents must be a non-empty list
+2021-05-16 20:10:00,764 INFO __main__::main: Start time 2021-05-16 20:10:00.764567
+2021-05-16 20:10:00,765 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:10:00,767 INFO __main__::insert_data: Inserting data from 379299 row from file for 2020 year
+2021-05-16 20:10:13,990 INFO __main__::insert_data: Inserting from Odata2020File.csv is finished
+2021-05-16 20:10:13,991 INFO __main__::main: End time 2021-05-16 20:10:13.991087
+2021-05-16 20:10:13,991 INFO __main__::main: Inserting executing time 0:00:13.226520
+2021-05-16 20:10:13,991 INFO __main__::get_user_query: Getting data for users query
+2021-05-16 20:10:15,677 INFO __main__::get_user_query: Users query data recorded into resultFile.csv
+2021-05-16 20:10:15,677 INFO __main__::build_plot: Building plot for data from resultFile.csv file
+2021-05-16 20:10:16,765 INFO __main__::build_plot: Plot saved into results_photo/AverageMarkByRegion.png
+2021-05-16 20:10:16,766 INFO __main__::main: Program is finished
+2021-05-16 20:10:16,766 INFO __main__::main: Total inserting executing time 0:02:23.071305
+2021-05-16 20:13:00,759 INFO __main__::main: Start time 2021-05-16 20:13:00.759652
+2021-05-16 20:13:00,761 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:13:00,764 INFO __main__::insert_data: Inserting data from 379299 row from file for 2020 year
+2021-05-16 20:13:15,095 INFO __main__::main: Start time 2021-05-16 20:13:15.095763
+2021-05-16 20:13:15,096 INFO __main__::create_last_row_collection: Creating collections
+2021-05-16 20:13:15,106 INFO __main__::insert_data: Inserting data from 0 row from file for 2019 year
+2021-05-16 20:14:21,752 INFO __main__::insert_data: Inserting from Odata2019File.csv is finished
+2021-05-16 20:14:21,752 INFO __main__::insert_data: Inserting data from 0 row from file for 2020 year
+2021-05-16 20:15:35,828 INFO __main__::insert_data: Inserting from Odata2020File.csv is finished
+2021-05-16 20:15:35,828 INFO __main__::main: End time 2021-05-16 20:15:35.828656
+2021-05-16 20:15:35,828 INFO __main__::main: Inserting executing time 0:02:20.732893
+2021-05-16 20:15:35,828 INFO __main__::get_user_query: Getting data for users query
+2021-05-16 20:15:37,579 INFO __main__::get_user_query: Users query data recorded into resultFile.csv
+2021-05-16 20:15:37,579 INFO __main__::build_plot: Building plot for data from resultFile.csv file
+2021-05-16 20:15:38,687 INFO __main__::build_plot: Plot saved into results_photo/AverageMarkByRegion.png
+2021-05-16 20:15:38,687 INFO __main__::main: Program is finished
+2021-05-16 20:15:38,687 INFO __main__::main: Total inserting executing time 0:02:21.383943
